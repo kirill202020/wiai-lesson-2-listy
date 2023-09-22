@@ -1,0 +1,15 @@
+.cont__list {
+	list-style-type: upper-roman;
+}
+.coun__list {
+	list-style-type: lower-latin;
+}
+.city__list {
+	list-style-type: lower-greek;
+}
+.district__list {
+	list-style-type: georgian;
+}
+.street__list {
+	list-style-type: disc;
+}
